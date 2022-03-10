@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Ziyang Qin's homepage
 
 You can use the [editor on GitHub](https://github.com/ZiyangNickQin/ZiyangNickQin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Personal Information
+
+Ziyang (Nick) Qin was born in Chongqing, a southwestern city in China, where he spent his childhood exploring the special 'Cyberpunk scenery'. After senior high, he decided to go out to find a larger world so he moved to Hefei, Anhui in which he earned his B.S. in University of Science and Technology of China (USTC) majoring organic chemistry.
 
 ### Markdown
 
