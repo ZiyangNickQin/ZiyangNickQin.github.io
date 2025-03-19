@@ -2,7 +2,7 @@
 
 ### Personal Information
 
-Ziyang (Nick) Qin was born in Chongqing, a southwestern city in China, where he spent his childhood exploring the special 'Cyberpunk scenery'. After senior high, he decided to go out to find a larger world so he moved to Hefei, Anhui in which he earned his B.S. in University of Science and Technology of China (USTC) majoring organic chemistry.
+Ziyang (Nick) Qin was born in Chongqing, a southwestern city in China, where he spent his childhood exploring the special 'cyberpunk scenery'. After senior high, he decided to go out to find a larger world so he moved to Hefei, Anhui in which he earned his B.S. in University of Science and Technology of China (USTC) majoring organic chemistry.
 
 ### Markdown
 
